@@ -1,0 +1,16 @@
+C:\Users\Ganesh\Desktop\Talentica\eCommerceApi.Persistance\bin\Debug\netcoreapp3.1\eCommerceApi.Persistance.deps.json
+C:\Users\Ganesh\Desktop\Talentica\eCommerceApi.Persistance\bin\Debug\netcoreapp3.1\eCommerceApi.Persistance.runtimeconfig.json
+C:\Users\Ganesh\Desktop\Talentica\eCommerceApi.Persistance\bin\Debug\netcoreapp3.1\eCommerceApi.Persistance.runtimeconfig.dev.json
+C:\Users\Ganesh\Desktop\Talentica\eCommerceApi.Persistance\bin\Debug\netcoreapp3.1\eCommerceApi.Persistance.dll
+C:\Users\Ganesh\Desktop\Talentica\eCommerceApi.Persistance\bin\Debug\netcoreapp3.1\eCommerceApi.Persistance.pdb
+C:\Users\Ganesh\Desktop\Talentica\eCommerceApi.Persistance\bin\Debug\netcoreapp3.1\eCommerceApi.Domain.dll
+C:\Users\Ganesh\Desktop\Talentica\eCommerceApi.Persistance\bin\Debug\netcoreapp3.1\eCommerceApi.Domain.pdb
+C:\Users\Ganesh\Desktop\Talentica\eCommerceApi.Persistance\obj\Debug\netcoreapp3.1\eCommerceApi.Persistance.csproj.AssemblyReference.cache
+C:\Users\Ganesh\Desktop\Talentica\eCommerceApi.Persistance\obj\Debug\netcoreapp3.1\eCommerceApi.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ganesh\Desktop\Talentica\eCommerceApi.Persistance\obj\Debug\netcoreapp3.1\eCommerceApi.Persistance.AssemblyInfoInputs.cache
+C:\Users\Ganesh\Desktop\Talentica\eCommerceApi.Persistance\obj\Debug\netcoreapp3.1\eCommerceApi.Persistance.AssemblyInfo.cs
+C:\Users\Ganesh\Desktop\Talentica\eCommerceApi.Persistance\obj\Debug\netcoreapp3.1\eCommerceApi.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh\Desktop\Talentica\eCommerceApi.Persistance\obj\Debug\netcoreapp3.1\eCommerceApi.Persistance.csproj.CopyComplete
+C:\Users\Ganesh\Desktop\Talentica\eCommerceApi.Persistance\obj\Debug\netcoreapp3.1\eCommerceApi.Persistance.dll
+C:\Users\Ganesh\Desktop\Talentica\eCommerceApi.Persistance\obj\Debug\netcoreapp3.1\eCommerceApi.Persistance.pdb
+C:\Users\Ganesh\Desktop\Talentica\eCommerceApi.Persistance\obj\Debug\netcoreapp3.1\eCommerceApi.Persistance.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Ganesh\Desktop\Talentica\EntityModelDiagram\bin\Debug\EntityModelDiagram.dll.config
+C:\Users\Ganesh\Desktop\Talentica\EntityModelDiagram\bin\Debug\EntityModelDiagram.dll
+C:\Users\Ganesh\Desktop\Talentica\EntityModelDiagram\bin\Debug\EntityModelDiagram.pdb
+C:\Users\Ganesh\Desktop\Talentica\EntityModelDiagram\bin\Debug\EntityFramework.dll
+C:\Users\Ganesh\Desktop\Talentica\EntityModelDiagram\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ganesh\Desktop\Talentica\EntityModelDiagram\bin\Debug\EntityFramework.xml
+C:\Users\Ganesh\Desktop\Talentica\EntityModelDiagram\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ganesh\Desktop\Talentica\EntityModelDiagram\obj\Debug\EntityModelDiagram.csproj.AssemblyReference.cache
+C:\Users\Ganesh\Desktop\Talentica\EntityModelDiagram\obj\Debug\EntityModelDiagram.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh\Desktop\Talentica\EntityModelDiagram\obj\Debug\EntityModelDiagram.csproj.CopyComplete
+C:\Users\Ganesh\Desktop\Talentica\EntityModelDiagram\obj\Debug\EntityModelDiagram.dll
+C:\Users\Ganesh\Desktop\Talentica\EntityModelDiagram\obj\Debug\EntityModelDiagram.pdb

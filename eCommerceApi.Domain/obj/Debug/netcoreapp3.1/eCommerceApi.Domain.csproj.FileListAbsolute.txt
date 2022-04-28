@@ -1,0 +1,10 @@
+C:\Users\Ganesh\Desktop\Talentica\eCommerceApi.Domain\bin\Debug\netcoreapp3.1\eCommerceApi.Domain.deps.json
+C:\Users\Ganesh\Desktop\Talentica\eCommerceApi.Domain\bin\Debug\netcoreapp3.1\eCommerceApi.Domain.dll
+C:\Users\Ganesh\Desktop\Talentica\eCommerceApi.Domain\bin\Debug\netcoreapp3.1\eCommerceApi.Domain.pdb
+C:\Users\Ganesh\Desktop\Talentica\eCommerceApi.Domain\obj\Debug\netcoreapp3.1\eCommerceApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ganesh\Desktop\Talentica\eCommerceApi.Domain\obj\Debug\netcoreapp3.1\eCommerceApi.Domain.AssemblyInfoInputs.cache
+C:\Users\Ganesh\Desktop\Talentica\eCommerceApi.Domain\obj\Debug\netcoreapp3.1\eCommerceApi.Domain.AssemblyInfo.cs
+C:\Users\Ganesh\Desktop\Talentica\eCommerceApi.Domain\obj\Debug\netcoreapp3.1\eCommerceApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh\Desktop\Talentica\eCommerceApi.Domain\obj\Debug\netcoreapp3.1\eCommerceApi.Domain.dll
+C:\Users\Ganesh\Desktop\Talentica\eCommerceApi.Domain\obj\Debug\netcoreapp3.1\eCommerceApi.Domain.pdb
+C:\Users\Ganesh\Desktop\Talentica\eCommerceApi.Domain\obj\Debug\netcoreapp3.1\eCommerceApi.Domain.csproj.AssemblyReference.cache
